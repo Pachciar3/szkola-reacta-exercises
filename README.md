@@ -44,5 +44,6 @@ Zadania zrobione podczas kursu w Szkole Reacta
 * 2. System powiadomień
 * 3. Komponent z kontaktem
 * 4. Snackbar
+*Uwaga najpierw trzeba dodać plik `.env` na podstawie plik `.env-example`*
 
 [Link z wszystkimi zadaniami](https://github.com/Pachciar3/week-11-1)
